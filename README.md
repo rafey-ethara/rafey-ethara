@@ -94,6 +94,8 @@ Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint
 <td align="right" width="150"><b>🤖 AI & evals</b></td>
 <td>
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/GLM-3B5BFE?style=for-the-badge&logoColor=white" alt="GLM" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
