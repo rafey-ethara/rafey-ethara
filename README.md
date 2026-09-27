@@ -1,8 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%40%20Ethara%20AI%20%C2%B7%20RL%20Environments%20%26%20Evals%20for%20AI%20Agents&descAlignY=54&descSize=17" width="100%"/>
+<a href="https://github.com/mohdrafey1"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Ethara%20AI%20%C2%B7%20RL%20Environments%20and%20Evals%20for%20AI%20Agents&descAlignY=54&descSize=17" width="100%" alt="Mohd Rafey Shaikh" /></a>
 
-<a href="https://git.io/typing-svg">
+<h3>👇 Start with my personal GitHub 👇</h3>
+
+<a href="https://github.com/mohdrafey1"><img src="https://img.shields.io/badge/Personal%20GitHub-%40mohdrafey1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0EA5E9" height="42" alt="Personal GitHub: @mohdrafey1" /></a>
+<a href="https://rafey.space"><img src="https://img.shields.io/badge/Portfolio-rafey.space-181717?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0EA5E9" height="42" alt="Portfolio: rafey.space" /></a>
+
+<sub>My projects, open source and everything I build outside work live there.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/mohdrafey1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+tests+AI+agents+have+to+pass.;I+help+AI+agents+learn+to+ship+real+software.;Difficulty+is+measured%2C+never+claimed.;Full-stack+engineer+turned+AI+evals+builder." alt="Typing SVG" />
 </a>
 
