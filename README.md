@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%40%20Ethara%20AI%20%C2%B7%20RL%20Environments%20%26%20Evals%20for%20AI%20Agents&descAlignY=54&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+tests+AI+agents+have+to+pass.;Agents+build+whole+apps.+A+real+browser+grades+them.;Difficulty+is+measured%2C+never+claimed.;Full-stack+engineer+turned+AI+evals+builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+tests+AI+agents+have+to+pass.;I+help+AI+agents+learn+to+ship+real+software.;Difficulty+is+measured%2C+never+claimed.;Full-stack+engineer+turned+AI+evals+builder." alt="Typing SVG" />
 </a>
 
 <p>
@@ -28,34 +28,34 @@ Most of my week goes into building the environments where AI coding agents are t
 
 <br/>
 
-## 🧪 What I'm building at Ethara AI
+## 🧪 What I do at Ethara AI
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Greenfield RL environments
-An agent gets a written product spec and an empty container wired to a real **database, auth, email and payments**. It has to build the whole web app from scratch. Tasks range from clean CRUD to multi-role systems where the numbers have to reconcile.
+### 🏗️ Build RL environments
+I design realistic, full-stack software tasks where AI coding agents have to build working web applications from a written spec, just like a real engineer would.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Graders that can't be gamed
-The finished app is **redeployed in a clean container**, so anything that only worked because the container was warm fails. A real **Chromium browser** runs the user workflows, **pytest** checks the API and database, and a rubric judge scores visual quality without ever touching the reward.
+### 🎯 Design automated grading
+I write the checks that decide whether an agent's work actually runs end to end for a real user, not just whether it looks right.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📐 Specs from real websites
-A pipeline that captures a live site, **measures every colour, font, spacing and motion**, and writes a zero-asset PRD complete enough for a model to rebuild the site from the text alone. See [`prd-generator`](https://github.com/rafey-ethara/prd-generator).
+### 📐 Write product specifications
+I turn real-world products into precise, buildable specs that are clear enough for a model to implement without guessing.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚔️ Adversarial task authoring
-Tooling where the agent that writes tasks and the agent that audits them **never talk to each other**, so authors can't tune for the auditor. A task counts as hard only after strong models have actually run it.
+### ⚔️ Harden task quality
+I review and stress-test tasks so they stay challenging, stay fair, and can't be passed with shortcuts.
 
 </td>
 </tr>
@@ -63,13 +63,10 @@ Tooling where the agent that writes tasks and the agent that audits them **never
 
 ```mermaid
 flowchart LR
-  S["📄 Written spec"] --> A["🤖 Agent builds<br/>the full app"]
-  A --> C["📦 Clean redeploy"]
-  C --> B["🌐 Browser workflows<br/>can a person do this?"]
-  C --> P["🧪 pytest<br/>did it really happen?"]
-  B --> R(["🏆 Reward"])
-  P --> R
-  C -.-> J["🎨 Rubric judge<br/>recorded, never trains"]
+  A["🌍 Real-world product"] --> B["📄 Precise spec"]
+  B --> C["🤖 AI agent builds it"]
+  C --> D["✅ Verified end to end"]
+  D --> E(["🚀 Better agents"])
 ```
 
 <br/>
@@ -87,16 +84,6 @@ Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint
 - ✅ **Grade behaviour, not implementation.** Any approach that works should score, and anything that doesn't should fail.
 - 📏 **Measure difficulty, don't claim it.** A task is hard only after strong models have tried it and failed.
 - 🐛 **A gamed task is my bug.** If a model finds a shortcut, the environment was wrong, and I fix the environment.
-
-<br/>
-
-## 📂 Featured work
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| 📐 **[prd-generator](https://github.com/rafey-ethara/prd-generator)** | Turns any URL into a buildable technical PRD, a plain-language version for the client, and the task file an environment is generated from | Python · Playwright |
-| 🌐 **[clone-the-web](https://github.com/rafey-ethara/clone-the-web)** | A Claude Code workflow that measures a live page over browser MCP and writes a spec another model can rebuild it from | Claude Code · MCP |
-| 📦 **[InvenTrack](https://github.com/rafey-ethara/Ethara_Assignment)** | Containerised inventory and order management with real-time stock tracking | React · FastAPI · PostgreSQL · Docker |
 
 <br/>
 
