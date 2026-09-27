@@ -1,24 +1,24 @@
 <div align="center">
 
-<a href="https://github.com/mohdrafey1"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Ethara%20AI%20%C2%B7%20RL%20Environments%20and%20Evals%20for%20AI%20Agents&descAlignY=54&descSize=17" width="100%" alt="Mohd Rafey Shaikh" /></a>
+<a href="https://github.com/mohdrafey1"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:BE185D&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Ethara%20AI%20%C2%B7%20RL%20Environments%20and%20Evals%20for%20AI%20Agents&descAlignY=54&descSize=17" width="100%" alt="Mohd Rafey Shaikh" /></a>
 
 <h3>👇 Start with my personal GitHub 👇</h3>
 
-<a href="https://github.com/mohdrafey1"><img src="https://img.shields.io/badge/Personal%20GitHub-%40mohdrafey1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0EA5E9" height="42" alt="Personal GitHub: @mohdrafey1" /></a>
-<a href="https://rafey.space"><img src="https://img.shields.io/badge/Portfolio-rafey.space-181717?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0EA5E9" height="42" alt="Portfolio: rafey.space" /></a>
+<a href="https://github.com/mohdrafey1"><img src="https://img.shields.io/badge/Personal%20GitHub-%40mohdrafey1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" height="42" alt="Personal GitHub: @mohdrafey1" /></a>
+<a href="https://rafey.space"><img src="https://img.shields.io/badge/Portfolio-rafey.space-181717?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7C3AED" height="42" alt="Portfolio: rafey.space" /></a>
 
 <sub>My projects, open source and everything I build outside work live there.</sub>
 
 <br/><br/>
 
 <a href="https://github.com/mohdrafey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+tests+AI+agents+have+to+pass.;I+help+AI+agents+learn+to+ship+real+software.;Difficulty+is+measured%2C+never+claimed.;Full-stack+engineer+turned+AI+evals+builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+tests+AI+agents+have+to+pass.;I+help+AI+agents+learn+to+ship+real+software.;Difficulty+is+measured%2C+never+claimed.;Full-stack+engineer+turned+AI+evals+builder." alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="https://ethara.ai"><img src="https://img.shields.io/badge/Ethara%20AI-Software%20Engineer-38BDF8?style=for-the-badge&labelColor=000000" alt="Software Engineer at Ethara AI" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rafey-ethara&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://github.com/rafey-ethara?tab=followers"><img src="https://img.shields.io/github/followers/rafey-ethara?label=Followers&style=for-the-badge&color=38BDF8&labelColor=000000" alt="GitHub followers" /></a>
+  <a href="https://ethara.ai"><img src="https://img.shields.io/badge/Ethara%20AI-Software%20Engineer-8B5CF6?style=for-the-badge&labelColor=000000" alt="Software Engineer at Ethara AI" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rafey-ethara&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/rafey-ethara?tab=followers"><img src="https://img.shields.io/github/followers/rafey-ethara?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=000000" alt="GitHub followers" /></a>
 </p>
 
 </div>
@@ -139,7 +139,7 @@ Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafey-ethara&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=rafey-ethara&hide_border=true&background=1E1B4B&stroke=4C1D95&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=C4B5FD&dates=A5B4FC" alt="GitHub streak" />
 </p>
 
 ## 📫 Connect with me
@@ -156,4 +156,4 @@ Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint
   <p>🏢 Proudly building with <a href="https://ethara.ai">Ethara AI</a></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:BE185D&height=110&section=footer" width="100%"/>
