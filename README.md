@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -157,7 +157,7 @@ My principles:
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2026
+> 🏆 76 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -192,20 +192,44 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 30 mins       ████████████████████████░   94.43 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Other                    10 hrs 3 mins       ███████████████░░░░░░░░░░   58.41 % 
+YAML                     4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 53 mins       █████████████████████████   100.00 % 
+Claude Code              8 hrs 56 mins       █████████████░░░░░░░░░░░░   51.87 % 
+Chrome                   6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
+Opencode Cli             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Mac                      6 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 hrs 27 mins (60.7%)
+
+✍️ 4,098 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 27,965,859 Input Tokens, 1,233,433 Output Tokens
+
+💵 $394.53 Estimated AI Cost This Week
+
+🧠 32 AI Sessions, 159 AI Prompts
+
+Opus                     4,216 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 954 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -220,7 +244,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 10:25:10 UTC
+ Last Updated on 28/09/2026 23:28:38 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
