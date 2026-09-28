@@ -147,6 +147,80 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2043%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 38.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 75 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                55 commits          █████████████░░░░░░░░░░░░   53.92 % 
+🌃 Evening                37 commits          █████████░░░░░░░░░░░░░░░░   36.27 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   23 commits          ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Thursday                 18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    6 hrs 30 mins       ████████████████████████░   94.43 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+
+🔥 Editors: 
+Chrome                   6 hrs 53 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      6 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+
+ Last Updated on 28/09/2026 10:25:10 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
