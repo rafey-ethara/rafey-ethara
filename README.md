@@ -12,7 +12,7 @@
 <br/><br/>
 
 <a href="https://github.com/mohdrafey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+environments+where+AI+agents+are+trained+and+tested" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=I+build+the+environments+where+AI+agents+are+trained+and+tested" alt="Typing animation" />
 </a>
 
 <p>
