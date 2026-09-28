@@ -146,7 +146,8 @@ My principles:
   <img src="https://streak-stats.demolab.com?user=rafey-ethara&hide_border=true&background=1E1B4B&stroke=4C1D95&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📫 Connect with me
 
