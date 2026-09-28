@@ -146,36 +146,7 @@ My principles:
   <img src="https://streak-stats.demolab.com?user=rafey-ethara&hide_border=true&background=1E1B4B&stroke=4C1D95&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
 
-### 📈 GitHub Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rafey-ethara&bg_color=1e1b4b&color=a78bfa&line=f472b6&point=8b5cf6&area=true&hide_border=true&theme=github-compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rafey-ethara&bg_color=ffffff&color=8b5cf6&line=f472b6&point=a78bfa&area=true&hide_border=true" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rafey-ethara&bg_color=1e1b4b&color=a78bfa&line=f472b6&point=8b5cf6&area=true&hide_border=true" />
-</picture>
-
-### ⏱️ WakaTime - Coding Time Tracker
-
-<!--START_SECTION:waka-->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohdrafey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&text_color=ffffff)](https://wakatime.com/@mohdrafey)
-<!--END_SECTION:waka-->
-
-<details>
-<summary>📊 View Detailed WakaTime Stats</summary>
-
-<div align="center">
-
-Visit my [WakaTime Dashboard](https://wakatime.com/@mohdrafey) for detailed coding statistics including:
-- 📝 Languages breakdown
-- 🛠️ Projects overview  
-- ⏰ Coding time by time of day
-- 🎯 Weekly and monthly trends
-
-</div>
-
-</details>
-
-<br/>
 
 ## 📫 Connect with me
 
