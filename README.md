@@ -1,24 +1,24 @@
 <div align="center">
 
-<a href="https://github.com/mohdrafey1"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:BE185D&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Ethara%20AI%20%C2%B7%20RL%20Environments%20and%20Evals%20for%20AI%20Agents&descAlignY=54&descSize=17" width="100%" alt="Mohd Rafey Shaikh" /></a>
+<a href="https://github.com/mohdrafey1"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:BE185D&height=190&section=header&text=Mohd%20Rafey%20Shaikh&fontSize=70&fontAlign=50&desc=Full%20Stack%20Engineer%20|%20AI%20Evaluations&descAlign=50&descAlignY=70" width="100%"/></a>
 
 <h3>👇 Start with my personal GitHub 👇</h3>
 
-<a href="https://github.com/mohdrafey1"><img src="https://img.shields.io/badge/Personal%20GitHub-%40mohdrafey1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" height="42" alt="Personal GitHub: @mohdrafey1" /></a>
-<a href="https://rafey.space"><img src="https://img.shields.io/badge/Portfolio-rafey.space-181717?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7C3AED" height="42" alt="Portfolio: rafey.space" /></a>
+<a href="https://github.com/mohdrafey1"><img src="https://img.shields.io/badge/Personal%20GitHub-%40mohdrafey1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" height="42" alt="Personal GitHub" /></a>
+<a href="https://rafey.space"><img src="https://img.shields.io/badge/Portfolio-rafey.space-181717?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7C3AED" height="42" alt="Portfolio" /></a>
 
 <sub>My projects, open source and everything I build outside work live there.</sub>
 
 <br/><br/>
 
 <a href="https://github.com/mohdrafey1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+tests+AI+agents+have+to+pass.;I+help+AI+agents+learn+to+ship+real+software.;Difficulty+is+measured%2C+never+claimed.;Full-stack+engineer+turned+AI+evals+builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=I+build+the+environments+where+AI+agents+are+trained+and+tested" alt="Typing animation" />
 </a>
 
 <p>
   <a href="https://ethara.ai"><img src="https://img.shields.io/badge/Ethara%20AI-Software%20Engineer-8B5CF6?style=for-the-badge&labelColor=000000" alt="Software Engineer at Ethara AI" /></a>
   <img src="https://komarev.com/ghpvc/?username=rafey-ethara&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="https://github.com/rafey-ethara?tab=followers"><img src="https://img.shields.io/github/followers/rafey-ethara?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=000000" alt="GitHub followers" /></a>
+  <a href="https://github.com/rafey-ethara?tab=followers"><img src="https://img.shields.io/github/followers/rafey-ethara?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=000000" alt="GitHub Followers" /></a>
 </p>
 
 </div>
@@ -88,7 +88,9 @@ flowchart LR
 
 </div>
 
-Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint, render a stored number instead of computing it, or pattern-match a spec and still score. I want every point to stand for something a person could actually use: the page loads, the button works, the order lands in the database, the email goes out.
+Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint, render a stored number instead of computing it, or pattern-match a spec and still score. I want every point to stand for real, verifiable work.
+
+My principles:
 
 - ✅ **Grade behaviour, not implementation.** Any approach that works should score, and anything that doesn't should fail.
 - 📏 **Measure difficulty, don't claim it.** A task is hard only after strong models have tried it and failed.
@@ -138,9 +140,42 @@ Benchmarks are easy to pass and hard to trust. An agent can hardcode an endpoint
 
 <br/>
 
+## 📊 Coding Activity & Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafey-ethara&hide_border=true&background=1E1B4B&stroke=4C1D95&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=C4B5FD&dates=A5B4FC" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=rafey-ethara&hide_border=true&background=1E1B4B&stroke=4C1D95&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=FFFFFF" alt="GitHub Streak" />
 </p>
+
+### 📈 GitHub Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rafey-ethara&bg_color=1e1b4b&color=a78bfa&line=f472b6&point=8b5cf6&area=true&hide_border=true&theme=github-compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rafey-ethara&bg_color=ffffff&color=8b5cf6&line=f472b6&point=a78bfa&area=true&hide_border=true" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rafey-ethara&bg_color=1e1b4b&color=a78bfa&line=f472b6&point=8b5cf6&area=true&hide_border=true" />
+</picture>
+
+### ⏱️ WakaTime - Coding Time Tracker
+
+<!--START_SECTION:waka-->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohdrafey&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1b4b&title_color=a78bfa&text_color=ffffff)](https://wakatime.com/@mohdrafey)
+<!--END_SECTION:waka-->
+
+<details>
+<summary>📊 View Detailed WakaTime Stats</summary>
+
+<div align="center">
+
+Visit my [WakaTime Dashboard](https://wakatime.com/@mohdrafey) for detailed coding statistics including:
+- 📝 Languages breakdown
+- 🛠️ Projects overview  
+- ⏰ Coding time by time of day
+- 🎯 Weekly and monthly trends
+
+</div>
+
+</details>
+
+<br/>
 
 ## 📫 Connect with me
 
