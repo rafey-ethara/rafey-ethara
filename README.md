@@ -147,15 +147,15 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 38.7 kB Used in GitHub's Storage 
+> 📦 38.8 kB Used in GitHub's Storage 
  > 
 > 🏆 76 Contributions in the Year 2026
  > 
@@ -192,42 +192,42 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 3 mins       ███████████████░░░░░░░░░░   58.41 % 
-YAML                     4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    12 hrs 51 mins      ███████████████░░░░░░░░░░   60.12 % 
+YAML                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+HTML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 56 mins       █████████████░░░░░░░░░░░░   51.87 % 
-Chrome                   6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
-Opencode Cli             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Claude Code              12 hrs              ██████████████░░░░░░░░░░░   56.18 % 
+Chrome                   8 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.74 % 
+Opencode Cli             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Mac                      17 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 27 mins (60.7%)
+⏱ AI Coding Time: 13 hrs 13 mins (61.89%)
 
-✍️ 4,098 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,583 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 27,965,859 Input Tokens, 1,233,433 Output Tokens
+🔤 18,766,907 Input Tokens, 2,228,454 Output Tokens
 
-💵 $394.53 Estimated AI Cost This Week
+💵 $349.84 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 159 AI Prompts
+🧠 41 AI Sessions, 186 AI Prompts
 
-Opus                     4,216 lines         █████████████████████████   100.00 % 
+Opus                     17,436 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 954 characters per prompt
+📄 Detailed Prompter — average 984 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -244,7 +244,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:28:38 UTC
+ Last Updated on 29/09/2026 22:33:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
