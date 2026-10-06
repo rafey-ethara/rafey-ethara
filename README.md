@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -192,43 +192,46 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
-Markdown                 3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-TypeScript               2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-HTML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Other                    8 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
+Markdown                 7 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+TypeScript               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Python                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 22 mins      ███████████████░░░░░░░░░░   60.53 % 
-Chrome                   6 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-VS Code                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Opencode Cli             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Claude Code              13 hrs 41 mins      ██████████████░░░░░░░░░░░   54.41 % 
+Chrome                   6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Opencode Cli             3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+VS Code                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Mac                      20 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 9 mins (64.3%)
+⏱ AI Coding Time: 18 hrs 16 mins (72.64%)
 
-✍️ 42,307 lines written by AI, 9 lines written by hand (99.98% AI-written)
+✍️ 43,857 lines written by AI, 10 lines written by hand (99.98% AI-written)
 
-🔤 23,049,315 Input Tokens, 4,193,768 Output Tokens
+🔤 25,967,441 Input Tokens, 3,970,185 Output Tokens
 
-💵 $457.52 Estimated AI Cost This Week
+💵 $513.65 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 284 AI Prompts
+🧠 33 AI Sessions, 306 AI Prompts
 
-Opus                     44,038 lines        █████████████████████████   100.00 % 
+Opus                     44,886 lines        █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 4,225 characters per prompt
+📚 Verbose Prompter — average 5,170 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -243,7 +246,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:17:11 UTC
+ Last Updated on 06/10/2026 22:46:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
