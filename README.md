@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -192,45 +192,45 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 19 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Other                    13 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-TypeScript               7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Python                   5 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-YAML                     4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Markdown                 20 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   31.57 % 
+Other                    15 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+TypeScript               9 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Python                   6 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+YAML                     4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 36 mins      ████████████░░░░░░░░░░░░░   47.19 % 
-Opencode Cli             19 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Chrome                   7 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-VS Code                  3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Codex Vscode             1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Claude Code              29 hrs 45 mins      ███████████░░░░░░░░░░░░░░   45.44 % 
+Opencode Cli             22 hrs 2 mins       ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Chrome                   7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+VS Code                  3 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Codex Vscode             1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Mac                      60 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      65 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 hrs 22 mins (86.37%)
+⏱ AI Coding Time: 56 hrs 52 mins (86.87%)
 
-✍️ 207,157 lines written by AI, 24 lines written by hand (99.99% AI-written)
+✍️ 208,326 lines written by AI, 25 lines written by hand (99.99% AI-written)
 
-🔤 89,241,885 Input Tokens, 12,481,756 Output Tokens
+🔤 104,102,941 Input Tokens, 13,560,368 Output Tokens
 
-💵 $2061.41 Estimated AI Cost This Week
+💵 $2268.56 Estimated AI Cost This Week
 
-🧠 119 AI Sessions, 631 AI Prompts
+🧠 132 AI Sessions, 713 AI Prompts
 
-Opus                     197,085 lines       ████████████████████████░   94.65 % 
-Fable                    6,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-GPT                      4,762 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Opus                     198,265 lines       ████████████████████████░   94.68 % 
+Fable                    6,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+GPT                      4,762 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 4,431 characters per prompt
+📚 Verbose Prompter — average 5,405 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
@@ -247,7 +247,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:22:31 UTC
+ Last Updated on 13/10/2026 00:56:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
