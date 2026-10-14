@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -192,47 +192,47 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 20 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.18 % 
-Other                    13 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-TypeScript               9 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Python                   5 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-YAML                     4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown                 20 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Other                    15 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+TypeScript               10 hrs 43 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+YAML                     3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Text                     3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
-Opencode Cli             21 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   34.25 % 
-Chrome                   7 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-VS Code                  3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Codex Vscode             1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Claude Code              31 hrs 53 mins      █████████████░░░░░░░░░░░░   50.79 % 
+Opencode Cli             17 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Chrome                   8 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+VS Code                  3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Slack                    2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-Mac                      64 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      62 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 hrs 43 mins (86.79%)
+⏱ AI Coding Time: 52 hrs 51 mins (84.2%)
 
-✍️ 198,092 lines written by AI, 24 lines written by hand (99.99% AI-written)
+✍️ 53,067 lines written by AI, 28 lines written by hand (99.95% AI-written)
 
-🔤 105,149,032 Input Tokens, 13,425,928 Output Tokens
+🔤 87,163,922 Input Tokens, 9,662,504 Output Tokens
 
-💵 $2223.63 Estimated AI Cost This Week
+💵 $1475.97 Estimated AI Cost This Week
 
-🧠 132 AI Sessions, 716 AI Prompts
+🧠 79 AI Sessions, 632 AI Prompts
 
-Opus                     188,076 lines       ████████████████████████░   94.41 % 
-Fable                    6,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-GPT                      4,762 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Opus                     47,662 lines        ██████████████████████░░░   88.20 % 
+Fable                    6,379 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 5,438 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 5,688 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -247,7 +247,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 23:03:43 UTC
+ Last Updated on 14/10/2026 21:54:45 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
