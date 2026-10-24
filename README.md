@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -168,21 +168,21 @@ My principles:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-🌆 Daytime                79 commits          ████████████████░░░░░░░░░   62.20 % 
-🌃 Evening                37 commits          ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+🌞 Morning                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+🌆 Daytime                84 commits          ████████████████░░░░░░░░░   63.64 % 
+🌃 Evening                37 commits          ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                40 commits          ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                44 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Friday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 
@@ -192,46 +192,46 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    36 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.35 % 
-Markdown                 13 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Python                   3 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-TypeScript               3 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Fork                     3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Other                    36 hrs 53 mins      ████████████░░░░░░░░░░░░░   48.49 % 
+Markdown                 13 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Python                   6 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Fork                     3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Kiro                     23 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Chrome                   18 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Claude Code              11 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-VS Code                  10 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Codex Vscode             4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Kiro                     23 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Claude Code              19 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Chrome                   16 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+VS Code                  10 hrs 6 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Slack                    3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-Mac                      75 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      76 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 16 mins (74.82%)
+⏱ AI Coding Time: 58 hrs 39 mins (77.1%)
 
-✍️ 49,417 lines written by AI, 172 lines written by hand (99.65% AI-written)
+✍️ 52,580 lines written by AI, 135 lines written by hand (99.74% AI-written)
 
-🔤 26,167,921 Input Tokens, 5,803,523 Output Tokens
+🔤 31,766,214 Input Tokens, 6,299,712 Output Tokens
 
-💵 $917.54 Estimated AI Cost This Week
+💵 $704.16 Estimated AI Cost This Week
 
-🧠 3980 AI Sessions, 4290 AI Prompts
+🧠 3973 AI Sessions, 4309 AI Prompts
 
-Opus                     40,145 lines        ████████████████████░░░░░   80.24 % 
-GPT                      7,223 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Cursor                   2,661 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     50,931 lines        ████████████████████████░   95.78 % 
+Cursor                   2,245 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📚 Verbose Prompter — average 89,606 characters per prompt
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 89,892 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +246,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:36:53 UTC
+ Last Updated on 24/10/2026 21:07:38 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
