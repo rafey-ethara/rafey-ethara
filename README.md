@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.68%20million%20lines%20of%20code-blue?style=flat)
 
@@ -192,46 +192,46 @@ Sunday                   5 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    36 hrs 53 mins      ████████████░░░░░░░░░░░░░   48.49 % 
-Markdown                 13 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Python                   6 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Fork                     3 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JSON                     2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Other                    39 hrs 37 mins      █████████████░░░░░░░░░░░░   50.95 % 
+Markdown                 11 hrs 41 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Python                   7 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Fork                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JSON                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Kiro                     23 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Claude Code              19 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Chrome                   16 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-VS Code                  10 hrs 6 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Slack                    3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Claude Code              24 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Kiro                     23 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   30.19 % 
+Chrome                   16 hrs 24 mins      █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+VS Code                  10 hrs 19 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Slack                    3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Mac                      76 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      77 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 39 mins (77.1%)
+⏱ AI Coding Time: 58 hrs 45 mins (75.56%)
 
-✍️ 52,580 lines written by AI, 135 lines written by hand (99.74% AI-written)
+✍️ 44,732 lines written by AI, 138 lines written by hand (99.69% AI-written)
 
-🔤 31,766,214 Input Tokens, 6,299,712 Output Tokens
+🔤 47,684,494 Input Tokens, 7,560,200 Output Tokens
 
-💵 $704.16 Estimated AI Cost This Week
+💵 $894.42 Estimated AI Cost This Week
 
-🧠 3973 AI Sessions, 4309 AI Prompts
+🧠 3970 AI Sessions, 4306 AI Prompts
 
-Opus                     50,931 lines        ████████████████████████░   95.78 % 
-Cursor                   2,245 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Opus                     45,301 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 89,892 characters per prompt
+🤖 AI-Driven — 99.69% of written lines came from AI
+📚 Verbose Prompter — average 90,286 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +246,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:07:38 UTC
+ Last Updated on 25/10/2026 21:10:26 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
