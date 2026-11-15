@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-483%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-496%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -192,45 +192,44 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    34 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.60 % 
-Markdown                 21 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-Python                   16 hrs 52 mins      █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Bash                     4 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-TypeScript               4 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Other                    34 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   39.35 % 
+Markdown                 23 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Python                   14 hrs 29 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+TypeScript               4 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Bash                     4 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-Claude Code              71 hrs 46 mins      ████████████████████░░░░░   81.40 % 
-Chrome                   13 hrs              ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Slack                    1 hr 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Claude Code              72 hrs              ████████████████████░░░░░   81.64 % 
+Chrome                   13 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 VS Code                  1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-DockerDesktop            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Slack                    1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+DockerDesktop            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      59 hrs 6 mins       █████████████████░░░░░░░░   67.03 % 
-Linux                    29 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Mac                      61 hrs 1 min        █████████████████░░░░░░░░   69.18 % 
+Linux                    27 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 74 hrs 28 mins (84.45%)
+⏱ AI Coding Time: 74 hrs 39 mins (84.63%)
 
-✍️ 69,403 lines written by AI, 19 lines written by hand (99.97% AI-written)
+✍️ 57,791 lines written by AI, 19 lines written by hand (99.97% AI-written)
 
-🔤 78,903,586 Input Tokens, 22,908,396 Output Tokens
+🔤 75,068,494 Input Tokens, 20,045,398 Output Tokens
 
-💵 $1441.64 Estimated AI Cost This Week
+💵 $1371.49 Estimated AI Cost This Week
 
-🧠 1713 AI Sessions, 2140 AI Prompts
+🧠 1550 AI Sessions, 1965 AI Prompts
 
-Opus                     45,263 lines        ████████████████░░░░░░░░░   64.69 % 
-Sonnet                   21,567 lines        ████████░░░░░░░░░░░░░░░░░   30.82 % 
-Fable                    3,144 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     37,746 lines        ████████████████░░░░░░░░░   64.70 % 
+Sonnet                   16,744 lines        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Fable                    3,854 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 149,300 characters per prompt
+📚 Verbose Prompter — average 140,993 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -247,7 +246,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 22:42:40 UTC
+ Last Updated on 15/11/2026 23:06:56 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
