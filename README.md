@@ -147,9 +147,9 @@ My principles:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-496%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-499%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -192,46 +192,46 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    34 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   39.35 % 
-Markdown                 23 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Python                   14 hrs 29 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-TypeScript               4 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Bash                     4 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other                    33 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.17 % 
+Markdown                 18 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Python                   11 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+TypeScript               4 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Bash                     3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Claude Code              72 hrs              ████████████████████░░░░░   81.64 % 
-Chrome                   13 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-VS Code                  1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Slack                    1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Claude Code              61 hrs 34 mins      ████████████████████░░░░░   79.07 % 
+Chrome                   13 hrs              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+VS Code                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Slack                    1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 DockerDesktop            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      61 hrs 1 min        █████████████████░░░░░░░░   69.18 % 
-Linux                    27 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   30.82 % 
+Mac                      57 hrs 54 mins      ███████████████████░░░░░░   74.37 % 
+Linux                    19 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 74 hrs 39 mins (84.63%)
+⏱ AI Coding Time: 64 hrs 21 mins (82.66%)
 
-✍️ 57,791 lines written by AI, 19 lines written by hand (99.97% AI-written)
+✍️ 35,701 lines written by AI, 19 lines written by hand (99.95% AI-written)
 
-🔤 75,068,494 Input Tokens, 20,045,398 Output Tokens
+🔤 62,892,067 Input Tokens, 16,560,663 Output Tokens
 
-💵 $1371.49 Estimated AI Cost This Week
+💵 $1237.10 Estimated AI Cost This Week
 
-🧠 1550 AI Sessions, 1965 AI Prompts
+🧠 1242 AI Sessions, 1635 AI Prompts
 
-Opus                     37,746 lines        ████████████████░░░░░░░░░   64.70 % 
-Sonnet                   16,744 lines        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Fable                    3,854 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Opus                     25,524 lines        ██████████████████░░░░░░░   70.42 % 
+Sonnet                   6,538 lines         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Fable                    4,183 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 140,993 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 131,445 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +246,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 23:06:56 UTC
+ Last Updated on 17/11/2026 02:01:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with me
